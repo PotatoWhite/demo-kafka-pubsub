@@ -1,0 +1,9 @@
+POST localhost:8010/kafka/publish
+Content-Type: application/json
+
+{
+  "id":"testid",
+  "data":"testData"
+  }
+
+###
